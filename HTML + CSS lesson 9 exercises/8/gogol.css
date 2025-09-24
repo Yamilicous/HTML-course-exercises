@@ -1,0 +1,44 @@
+.container{
+  text-align: center;
+}
+
+.Logo{
+  width: 150px;
+}
+
+.search{
+  width: 400px;
+  padding-left: 10px;
+  font-size: 20px;
+  margin: auto;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 100px;
+  box-shadow: 3px 3px 6px rgb(217, 214, 214);
+  transition: box-shadow 0.3s ease-in-out;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.search:hover {
+  box-shadow: 3px 3px 6px rgb(137, 132, 132);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.search-button{
+  background-color: #ececec;
+  border: 1px solid #ececec;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.lucky-button{
+  background-color: #ececec;
+  border: 1px solid #ececec;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

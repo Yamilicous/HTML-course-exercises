@@ -1,0 +1,85 @@
+img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
+.container{
+  text-align: middle;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
+  width: 450px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+button{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 19px;
+  flex:1;
+  max-width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+  border-color: blue;
+  float: right;
+}
+
+.button{
+  flex:1;
+}
+
+p{
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.description{
+ font-size: 18px;
+ font-family: Arial;
+ color: rgb(153, 151, 151);
+ font-weight: normal;
+}
+
+.popular{
+ font-size: 15px;
+ font-family: Arial;
+ color: rgb(153, 151, 151);
+ font-weight: normal;
+}
+
+.tpapa{
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.tpapa-1{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.mpapa{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.bpapa{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}

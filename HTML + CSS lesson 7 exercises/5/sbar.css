@@ -1,0 +1,19 @@
+.searchbar {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+  height: 36px;
+  border-radius: 18px;
+  border-color: rgb(232, 228, 228);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  display: block;
+  margin: auto;
+  box-shadow: 3px 3px 5px rgb(134, 125, 125);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.searchbar:hover {
+  box-shadow: 3px 3px 5px rgb(81, 79, 79);
+  transition: box-shadow 0.3s ease-in-out;
+}

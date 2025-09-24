@@ -1,0 +1,12 @@
+button{
+  background-color: rgb(255,216,20);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  height: 36px;
+  width: 200px;
+  border-radius: 16px;
+  border-color: rgb(255,216,20);
+  border-style: solid;
+}

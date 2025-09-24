@@ -1,0 +1,18 @@
+.left{
+  background-color: lightblue;
+  display: flex;
+  width:300px;
+ justify-content: space-between;
+}
+
+.right{
+  background-color: lightpink;
+  display: flex;
+  width: 200px;
+  gap: 10px;
+}
+
+.row2{
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+}

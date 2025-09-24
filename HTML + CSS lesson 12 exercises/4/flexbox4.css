@@ -1,0 +1,17 @@
+.container{
+  display:flex;
+  justify-content: space-between;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border: solid 1px black;
+}
+
+.left{
+  background-color: lightpink;
+  width: 50px;
+}
+
+.middle{
+  background-color: lightblue;
+  width: 50px;
+}

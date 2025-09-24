@@ -1,0 +1,44 @@
+.mail{
+  color: rgb(105, 102, 102);
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  border-radius: 18px;
+}
+
+.enter{
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
+
+.agree{
+  color: rgb(105, 102, 102);
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 18px;
+}
+
+.join{
+  background-color: rgb(81, 46, 164);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  height: 36px;
+  width: 250px;
+  border-radius: 18px;
+  border-color: rgb(81, 46, 164);
+  border-style: solid;
+  transition: background-color 0.5s ease-in-out;
+}
+
+.join:hover {
+  background-color:rgb(66, 37, 110) ;
+  transition: background-color 0.5s ease-in-out;
+}

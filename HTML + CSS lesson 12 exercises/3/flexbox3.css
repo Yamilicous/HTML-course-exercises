@@ -1,0 +1,24 @@
+.container{
+  display:flex;
+  justify-content: space-between;
+}
+
+.left{
+  background-color: lightpink;
+  width: 50px;
+}
+
+.middle{
+  background-color: lightblue;
+  width: 50px;
+}
+
+.right{
+  background-color: lightpink;
+  width: 75px;
+}
+
+.bottom{
+  background-color: lightpink;
+  width: 75px;
+}

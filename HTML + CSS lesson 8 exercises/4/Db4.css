@@ -1,0 +1,47 @@
+.Fname {
+  display: inline-block;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  border-color: rgb(142, 136, 136);
+  border-style: solid;
+  border-radius: 5px;
+  padding-left: 10px;
+  width: 110px;
+}
+
+.Lname {
+  display: inline-block;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  border-color: rgb(142, 136, 136);
+  border-style: solid;
+  border-radius: 5px;
+  padding-left: 10px;
+  width: 110px;
+}
+
+.Email {
+  display: block;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  border-color: rgb(142, 136, 136);
+  border-style: solid;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-top: 10px;
+  width: 240px;
+  margin-bottom: 10px;
+}
+
+.SignUp {
+  display: block;
+  font-size: 17px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  background-color: rgb(74, 60, 226);
+  border-style: none;
+  border-radius: 5px;
+  padding: 10px;
+  width: 255px;
+  cursor: pointer;
+}

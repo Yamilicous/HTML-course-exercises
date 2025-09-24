@@ -1,0 +1,19 @@
+.container{
+  display:flex;
+  flex:  1;
+}
+
+.left{
+  background-color: lightpink;
+  width: 50px;
+}
+
+.middle{
+  background-color: lightblue;
+  flex: 1;
+}
+
+.right{
+  background-color: lightpink;
+  width: 75px;
+}

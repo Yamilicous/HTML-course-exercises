@@ -1,0 +1,27 @@
+.Start {
+  background-color: rgb(121,82,179);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+  height: 36px;
+  width: 110px;
+  border-radius: 2px;
+  border-color: rgb(121,82,179);
+  border-style: solid;
+  font-weight: bold;
+}
+
+.Download {
+  background-color: rgb(241, 243, 246);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  height: 36px;
+  width: 110px;
+  border-radius: 2px;
+  border-color: rgb(241, 243, 246);
+  border-style: solid;
+  margin-left: 5px;
+}

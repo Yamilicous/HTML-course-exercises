@@ -1,0 +1,42 @@
+.Start {
+  background-color: rgb(121,82,179);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 6px;
+  padding-left: 6px;
+  border-radius: 2px;
+  border-color: rgb(121,82,179);
+  border-style: solid;
+  font-weight: bold;
+}
+
+.Start:hover {
+  background-color:rgb(86, 43, 151) ;
+  transition: background-color 0.5s ease-in-out;
+}
+
+.Download {
+  background-color: rgb(241, 243, 246);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+  border-color: rgb(241, 243, 246);
+  border-style: solid;
+  margin-left: 5px;
+}
+
+.Download:hover {
+  background-color:rgb(106, 98, 98) ;
+  color:rgb(255, 255, 255) ;
+  transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
+}

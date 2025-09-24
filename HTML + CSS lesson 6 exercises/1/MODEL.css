@@ -1,0 +1,26 @@
+h1{
+  font-family:Montserrat;
+  font-size: 36px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+p{
+  font-family:Montserrat;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 10px;
+}
+
+.TouchlessDelivery{
+  font-family:Montserrat;
+  text-decoration: underline;
+  font-size: 17px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 10px;
+}

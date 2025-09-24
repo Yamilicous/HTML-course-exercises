@@ -1,0 +1,152 @@
+.container{
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
+  width: 200px;
+  padding-bottom: 10px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+
+.me{
+  width: 200px;
+  height: 170px;
+  object-fit: cover;
+}
+
+.name{
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: left;
+  padding-top: 2px;
+  padding-left: 10px;
+  margin-bottom: 0;
+}
+
+.mutual{
+  font-size: 14px;
+  font-family: arial;
+  color: gray;
+  text-align: left;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+
+.add{
+  width: 100px;
+  height: 30px;
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: arial;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.container-1{
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
+  width: 200px;
+  padding-bottom: 10px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 12px;
+  margin-top: 10px;
+}
+
+
+.Teo{
+  width: 200px;
+  height: 170px;
+  object-fit: cover;
+}
+
+.name-1{
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: left;
+  padding-top: 2px;
+  padding-left: 10px;
+  margin-bottom: 0;
+}
+
+.mutual-1{
+  font-size: 14px;
+  font-family: arial;
+  color: gray;
+  text-align: left;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+
+.add{
+  width: 100px;
+  height: 30px;
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: arial;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.container-2{
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
+  width: 200px;
+  padding-bottom: 10px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+
+.Pebbles{
+  width: 200px;
+  height: 170px;
+  object-fit: cover;
+}
+
+.name-2{
+  font-size: 20px;
+  font-family: arial;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: left;
+  padding-top: 2px;
+  padding-left: 10px;
+  margin-bottom: 0;
+}
+
+.mutual-2{
+  font-size: 14px;
+  font-family: arial;
+  color: gray;
+  text-align: left;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+
+.add{
+  width: 100px;
+  height: 30px;
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-family: arial;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 10px;
+}

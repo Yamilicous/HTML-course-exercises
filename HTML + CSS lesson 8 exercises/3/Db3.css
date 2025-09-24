@@ -1,0 +1,23 @@
+.Logo{
+  width: 150px;
+  margin: auto;
+  display: block;
+}
+
+.search{
+  width: 400px;
+  padding-left: 10px;
+  font-size: 20px;
+  margin: auto;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 100px;
+  display: block;
+  box-shadow: 3px 3px 6px rgb(171, 165, 165);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.search:hover {
+  box-shadow: 3px 3px 6px rgb(56, 54, 54);
+  transition: box-shadow 0.3s ease-in-out;
+}

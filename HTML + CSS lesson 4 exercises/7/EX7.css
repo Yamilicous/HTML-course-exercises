@@ -1,0 +1,13 @@
+a{
+  font-size: 15px;
+  margin-right: 7px;
+  color: rgb(44, 133, 0);
+  padding: 5px;
+  text-decoration: none;  
+  transition: background-color 0.5s ease-in-out;
+}
+
+a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}

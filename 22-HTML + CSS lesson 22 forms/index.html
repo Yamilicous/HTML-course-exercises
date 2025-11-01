@@ -8,7 +8,7 @@
   </head>
 
   <body>
-    <form action="index.php" method:="POST" enctype="multipart/form-data">
+    <form action="index.php" method="POST" enctype="multipart/form-data">
       <label for="name">Username:</label>
       <input type="text" id="name" required minlength="3" maxlength="15" placeholder="Scinoe"><br>
 
@@ -25,13 +25,14 @@
       <input type="number" id="quantity" required min="0" max="2" value="1"><br>
 
       <label for="gender">Gender:</label>
-      <input type="radio" id="male" name="gender" value="male">
+      <input type="radio" id="male" name="gender" value="male" required>
       <label for="male">Male</label>
       <input type="radio" id="female" name="gender" value="female">
       <label for="female">Female</label><br>
 
       <label for="payment">Payment:</label>
       <select id="payment" required>
+            <option value="">Choose a payment method</option>
             <option value="Gcash">Gcash</option>
             <option value="Cash on Delivery">Cash on Delivery</option>
             <option value="Credit Card">Credit Card</option>
@@ -47,14 +48,13 @@
       <input type="time" id="time" required><br>
       
       <label for="file">File:</label>
-      <input type="file" id="file" required accept="image/png, image/jpeg, image/webm"><br>
+      <input type="file" id="file" required accept="image/png, image/jpeg, image/webp"><br>
    
       <label for="comment">Comments:</label>
       <textarea id="comment"></textarea><br>
 
       <input type="reset"><br>
       <input type="submit">
-
-      
+    </form>
   </body>
 </html>

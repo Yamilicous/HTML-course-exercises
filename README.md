@@ -3,12 +3,12 @@
 This repository contains my HTML learning exercises and projects.
 
 ## Contents
-- Basic HTML structure exercises
+- Basic HTML structure exercises and lessons
 - CSS styling practice
 - Portfolio projects
 - Various web development experiments
 
-## Technologies Used
+## Used
 - HTML
 - CSS
 

@@ -1,0 +1,26 @@
+h1::first-letter{
+    color: blue;
+    font-size: 200%;
+    font-family: Arial;
+}
+
+p::first-line{
+    background-color: rgb(75, 135, 75);
+    font-size: 150%;
+    font-family: Verdana;
+}
+
+ul li{
+  list-style-type: none;
+  font-size: 20px;
+}
+li::before{
+  content:"✔️"
+}
+li::after{
+  content:"😍"
+}
+ul li::selection{
+  background-color: yellow;
+  color: red;
+}

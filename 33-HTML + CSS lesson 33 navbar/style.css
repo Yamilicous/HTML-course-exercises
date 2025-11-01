@@ -1,0 +1,28 @@
+body{
+  margin:0;
+}
+h1{
+  text-align:center;
+}
+main{
+  margin-left:20px;
+  margin-right:20px;
+}
+
+.navbar{
+  position: sticky;
+  top:0;
+}
+.navbar ul{
+  background-color:hsl(0, 0%, 57%);
+  padding:10px;
+  display:flex;
+  justify-content:space-around;
+}
+.navbar a{
+  text-decoration:none;
+  color: hsl(0, 0%, 85%);
+}
+.navbar li{
+  list-style-type:none;
+}

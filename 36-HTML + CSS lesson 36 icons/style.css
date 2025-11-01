@@ -1,0 +1,48 @@
+div{
+  text-align:center;
+  margin-right: 15px;
+}
+
+div a{
+  text-decoration: none;
+}
+
+.fa-solid.fa-house.fa-5x{
+  color: hsl(0, 0%, 30%);
+  cursor: pointer;
+}
+.fa-solid.fa-house.fa-5x:hover{
+  color: hsl(0, 0%, 50%);
+}
+
+.fa-brands.fa-facebook.fa-5x{
+  color: hsl(259, 100%, 50%);
+  cursor: pointer;
+}
+.fa-brands.fa-facebook.fa-5x:hover{
+  color: hsl(259, 100%, 60%);
+}
+
+.fa-solid.fa-user.fa-5x{
+  color: hsl(0, 0%, 0%);
+  cursor: pointer;
+}
+.fa-solid.fa-user.fa-5x:hover{
+  color: hsl(0, 0%, 30%);
+}
+
+.fa-solid.fa-car.fa-5x{
+  color: hsl(0, 0%, 20%);
+  cursor: pointer;
+}
+.fa-solid.fa-car.fa-5x:hover{
+  color: hsl(0, 0%, 40%);
+}
+
+.fa-brands.fa-tiktok.fa-5x{
+  color: hsl(0, 0%, 0%);
+  cursor: pointer;
+}
+.fa-brands.fa-tiktok.fa-5x:hover{
+  color: hsl(0, 0%, 27%);
+}

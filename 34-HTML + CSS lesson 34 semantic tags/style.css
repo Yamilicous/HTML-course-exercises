@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+}
+
+header{
+  text-align:center;
+  background-color: hsl(0, 0%, 49%);
+  padding:25px;
+}
+
+nav{
+  background-color: hsl(0, 0%, 25%);
+  height: 30px;
+  width: 100%;
+}
+
+aside{
+  width: 20%;
+  float:left;
+  padding:10px;
+}
+section{
+  width: 40%;
+  float:left;
+  padding:10px;
+}
+article{
+  width: 40%;
+  float:left;
+  padding:10px;
+}
+
+footer{
+ display:block;
+ clear:both;
+ text-align:center;
+ background-color: hsl(0, 0%, 49%);
+ padding:25px;
+}
+
+@media screen and (max-width:640px) {
+  aside, section, article{
+    width:100%;
+    float:none;
+  }
+}

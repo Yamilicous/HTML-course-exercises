@@ -1,0 +1,15 @@
+#n1{
+  height: 200px;
+  width:200px;
+  background-color: rgb(179, 0, 0);
+  position: fixed;
+}
+
+#n2{
+  height: 100px;
+  width:100px;
+  background-color: rgb(255, 142, 142);
+  position: absolute;
+  top:50px;
+  left:50px;
+}

@@ -1,0 +1,27 @@
+.one{
+  height: 85px;
+  overflow: scroll;
+  border:2px solid;
+  margin-bottom: 20px;
+}
+
+.two{
+  height: 85px;
+  overflow: hidden;
+  border:2px solid;
+  margin-bottom: 20px;
+}
+
+.three{
+  height: 85px;
+  overflow:auto;
+  border:2px solid;
+  margin-bottom: 20px;
+}
+
+.four{
+  height: 85px;
+  overflow:visible;
+  border:2px solid;
+  margin-bottom: 20px;
+}

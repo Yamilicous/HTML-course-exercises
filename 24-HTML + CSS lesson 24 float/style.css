@@ -1,0 +1,22 @@
+body{
+  display:flow-root;
+  border:2px solid;
+}
+
+.pokeball{
+  height:150px;
+  width: 150px;
+  object-fit: contain;
+  float:left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.squirt{
+  height:150px;
+  width: 150px;
+  object-fit:contain;
+  float:right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}

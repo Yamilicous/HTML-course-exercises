@@ -1,0 +1,24 @@
+.Page{
+  display:flex;
+  justify-content:center;
+  gap:20px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+.Page a{
+  font-size: 25px;
+  display:online-block;
+  text-decoration: none;
+  color: black;
+  width:30px;
+  text-align: center;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+.Page a:hover{
+  background-color:hsl(120, 97%, 38%);
+}
+.active{
+  background-color:hsl(120, 100%, 30%);
+  color:white;
+}
